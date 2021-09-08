@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ClaytonSiby/Software-Developers-Summit.git",
+  "author": "ClaytonSiby <claytonsiby@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
