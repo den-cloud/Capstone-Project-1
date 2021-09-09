@@ -24,7 +24,7 @@ To get this project on your machine & contribute to the project, you can run <co
 
 ## Live Demo
 
-[Live Demo Link] 
+[Live Demo Link](https://den-cloud.github.io/Capstone-Project-1/)
 
 ## Author
 
