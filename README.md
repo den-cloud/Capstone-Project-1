@@ -3,7 +3,7 @@ Annual conference for developers around the world.
 
 ## Project Design:
 
-![screenshot](idesign/images/page-screenshot.PNG)
+![screenshot](/images/page-screenshot.PNG)
 
 This project was developed following the [CC Global Summit 2015](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) design by [Cindy Shin](https://www.behance.net/adagio07). It is a Microverse capstone project that I developed using bootstrap and a few more technologies (mentioned below). 
 
@@ -24,7 +24,7 @@ To get this project on your machine & contribute to the project, you can run <co
 
 ## Live Demo
 
-
+[Live Demo Link](https://den-cloud.github.io/Capstone-Project-1/)
 
 ## Author
 
